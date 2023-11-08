@@ -7,6 +7,8 @@ export default function Contact() {
     AOS.refresh();
   }, []);
 
+  
+
   return (
     <section data-aos="fade-up"  className="contact-continer sections" id="contact">
       <h1 className="heading">
