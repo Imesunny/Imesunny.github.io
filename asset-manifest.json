@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e4647b97.css",
+    "main.js": "/static/js/main.c7b53844.js",
+    "static/media/MineWine.jpeg": "/static/media/MineWine.5e1a29ea5aba1a418767.jpeg",
+    "static/media/CycleShop.jpeg": "/static/media/CycleShop.992312e804417ddca8d9.jpeg",
+    "static/media/BigBasket.jpeg": "/static/media/BigBasket.f848604b1c8f8b1d0f26.jpeg",
+    "static/media/Portfolio.jpeg": "/static/media/Portfolio.c7bebd7e85fb8f74bdd9.jpeg",
+    "static/media/SUNNY ANAND.pdf": "/static/media/SUNNY ANAND.11156cedca55291caa2f.pdf",
+    "static/media/personal.jpeg": "/static/media/personal.5db6402d855bb2c0ea91.jpeg",
+    "index.html": "/index.html",
+    "main.e4647b97.css.map": "/static/css/main.e4647b97.css.map",
+    "main.c7b53844.js.map": "/static/js/main.c7b53844.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4647b97.css",
+    "static/js/main.c7b53844.js"
+  ]
+}
